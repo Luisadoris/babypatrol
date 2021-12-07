@@ -1,0 +1,41 @@
+---
+siteName: YourSiteName
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{siteName}} | {{ title }}</title>
+  <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+</head>
+<body>
+  <header class="site-header">
+       <header class="header">
+  <a href="" class="logo">Logo</a>
+  <input class="menu-btn" type="checkbox" id="menu-btn" />
+  <label class="menu-icon" for="menu-btn"><span class="navicon"></span></label>
+  <ul class="menu">
+    <li><a href="/">Home</a></li>
+    <li><a href="/expecting/">Expecting</a></li>
+    <li><a href="/parenthood/">Parenthood</a></li>
+    <li><a href="/aboutus/">About Us</a></li>
+    <li><a href="/resources/">Resources</a></li>
+  </ul>
+</header>
+     
+    </header>
+
+  {{ content | safe }}
+
+  <footer>
+    <div>
+      <p>&copy; {{ pkg.author }}</p>
+      <!-- You can change all of this footer content. -->
+    </div>
+  </footer>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>
