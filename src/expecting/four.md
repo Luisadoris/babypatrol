@@ -15,4 +15,4 @@ tags: navItem
 # {{title}}
 ###### 
 
-<img width=100%; height=auto; src="/images/expecting/1.jpeg" class="post-image" alt="post-image">
+<img width=100%; height=auto; src="/images/1.jpeg" class="post-image" alt="post-image">
