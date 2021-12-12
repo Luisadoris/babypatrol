@@ -1,0 +1,41 @@
+p {
+    margin-right: 5%;
+    margin-left: 5%;
+    font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 2;
+    text-align: left;
+  }
+  h1 {
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: 1.5;
+    text-align: center;
+  }
+  h2 {
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: 1;
+    text-align: left;
+  }
+  h6 {
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: .25;
+    text-align: center;
+    
+  }
+  img {
+    margin-right: 5%;
+    margin-left: 5%;
+    text-align: center;
+  }
+
+  body {
+  background-color: whitesmoke;
+  }
+
+  iframe { 
+    margin-left: 5%;   
+    margin-right: 5%; 
+    text-align: center;
+   }

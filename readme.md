@@ -28,15 +28,15 @@
 
 ## Learn More About Eleventy
 
-- [11ty Official Site](https://11ty.dev)
-- Stephanie Eckles site [11ty Rocks](https://11ty.rocks) has a lot of information on 11ty. You can learn how to get started, apply custom data sources and more. Here are a few:
-    - Get the 11ty highlights in her [14 minute feature overview](https://youtu.be/p81J7G1qFAM)
-    - Read her post on [creating your first Eleventy website](https://11ty.rocks/posts/create-your-first-basic-11ty-website/)
-    - View the [Quick Tips](https://11ty.rocks/tips/)
-    - View some [configuration examples](https://11ty.rocks/eleventyjs/)
+ [11ty Official Site](https://11ty.dev)
+ Stephanie Eckles site [11ty Rocks](https://11ty.rocks) has a lot of information on 11ty. You can learn how to get started, apply custom data sources and more. Here are a few:
+     Get the 11ty highlights in her [14 minute feature overview](https://youtu.be/p81J7G1qFAM)
+     Read her post on [creating your first Eleventy website](https://11ty.rocks/posts/create-your-first-basic-11ty-website/)
+     View the [Quick Tips](https://11ty.rocks/tips/)
+     View some [configuration examples](https://11ty.rocks/eleventyjs/)
 
 ## Site and Longer Guides
 
-- [Beginner's Guid to Eleventy](https://11ty.rocks/eleventyjs/)
-- [11ty Recipes](https://11ty.recipes/)
-- [Learn Eleventy from Scratch](https://learneleventyfromscratch.com/) note: while it says it&rsquo;s out of date, the basics are all fine.
+ [Beginner's Guid to Eleventy](https://11ty.rocks/eleventyjs/)
+ [11ty Recipes](https://11ty.recipes/)
+ [Learn Eleventy from Scratch](https://learneleventyfromscratch.com/) note: while it says it&rsquo;s out of date, the basics are all fine.

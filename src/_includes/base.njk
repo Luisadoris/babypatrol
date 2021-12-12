@@ -1,5 +1,5 @@
 ---
-siteName: YourSiteName
+siteName: Baby Patrol
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -9,8 +9,6 @@ siteName: YourSiteName
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{siteName}} | {{ title }}</title>
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
-</head>
-<body>
   <header class="site-header">
        <header class="header">
   <a href="" class="logo"> <img src="/images/babypartol.png" alt="logo" style="width:150px;height:auto;"></a>
@@ -21,21 +19,22 @@ siteName: YourSiteName
     <li><a href="/expecting/">Expecting</a></li>
     <li><a href="/parenthood/">Parenthood</a></li>
     <li><a href="/aboutus/">About Us</a></li>
-    <li><a href="/resources/">Resources</a></li>
   </ul>
 </header>
      
-    </header>
+    </header></head>
 
   {{ content | safe }}
 
-  <footer>
-    <div>
-      <p>&copy; {{ pkg.author }}</p>
-      <!-- You can change all of this footer content. -->
-    </div>
-  </footer>
+
+  <div class="footer">
+   <footer> <row>
+        <p><b>Links</b></br><a href="/resources/">Resources</p></a>
+       
+       </row>
+</div>
+    </footer>
 
   <script src="/js/main.js"></script>
-</body>
+
 </html>
