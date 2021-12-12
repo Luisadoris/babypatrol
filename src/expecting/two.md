@@ -13,7 +13,7 @@ tags: navItem
 
 # {{title}}
 ###### Written by: Bright Horizons Education Team
-<img width=100%; height=auto; src="/images/expecting/two.png" class="post-image" alt="post-image">
+<img width=100%; height=auto; src="/images/two.png" class="post-image" alt="post-image">
 
 Having a baby is one of the biggest life changes that you'll experience. These tips should help prepare you for parenthood and deal with new baby stress.
 

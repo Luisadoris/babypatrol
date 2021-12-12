@@ -5,10 +5,10 @@ tags: navItem
 ---
 <link rel="stylesheet" href="{{ '/css/content.css' | url }}">
 # {{title}}
-<img width=100%; height=auto; src="/images/expecting/head.jpg" class="post-image" alt="post-image">
+<img width=100%; height=auto; src="/images/head.jpg" class="post-image" alt="post-image">
 <div class="container">
 	<article class="post">
-		<img width="660" height="478" src="/images/expecting/1.jpeg" class="post-image" alt="post-image">
+		<img width="660" height="478" src="/images/1.jpeg" class="post-image" alt="post-image">
 		<section class="post-content">
 			<h1 class="post-title">You’re Expecting. Congratulations! Now What?</h1>
 			<time class="post-author">by Pamela Kramer</time>
@@ -20,7 +20,7 @@ When Rebecca Brandt’s home pregnancy test came out positive, one of the first 
 		</section>
 	</article>
 	<article class="post">
-		<img width="660" height="523" src="/images/expecting/two.png" class="post-image" alt="">
+		<img width="660" height="523" src="/images/two.png" class="post-image" alt="">
 		<section class="post-content">
 			<h1 class="post-title">TIPS AND ADVICE FOR EMOTIONALLY PREPARING FOR A BABY</h1>
 			<time class="post-author">Written by: Bright Horizons Education Team</time>
@@ -42,7 +42,7 @@ When Rebecca Brandt’s home pregnancy test came out positive, one of the first 
 		</section>
 	</article>
 	<article class="post">
-		<img width="660" height="478" src="/images/expecting/four" class="post-image" alt="">
+		<img width="660" height="478" src="/images/four" class="post-image" alt="">
 		<section class="post-content">
 			<h1 class="post-title">Stories from the Saddle: Jon Day’s Cycle Geography</h1>
 			<time class="post-author">Saturday 28 November, 14:00</time>
@@ -53,7 +53,7 @@ When Rebecca Brandt’s home pregnancy test came out positive, one of the first 
 		</section>
 	</article>
 	<article class="post">
-		<img width="660" height="523" src="/images/expecting/five" class="post-image" alt="">
+		<img width="660" height="523" src="/images/five" class="post-image" alt="">
 		<section class="post-content">
 			<h1 class="post-title">The American Design Hot List</h1>
 			<time class="post-author">Friday 14 November, 13:00</time>
