@@ -53,10 +53,10 @@ When Rebecca Brandt’s home pregnancy test came out positive, one of the first 
 		</section>
 	</article>
 	<article class="post">
-		<img width="660" height="523" src="/images/5.jpeg" class="post-image" alt="">
-		<section class="post-content">
-			<h1 class="post-title">Giving Birth: Labor & Delivery Tips for First-Time Moms</h1>
-			<time class="post-author"> by Dr. Ashley Durward</time>
+<img width="660" height="523" src="/images/5.jpeg" class="post-image" alt="">
+<section class="post-content">
+<h1 class="post-title">Giving Birth: Labor & Delivery Tips for First-Time Moms</h1>
+<time class="post-author"> by Dr. Ashley Durward</time>
 			<p class="post-abstract">Giving birth can be both exciting and terrifying for first-time moms. Just as the rest of your pregnancy has differed from others’, your birth experience will be unique to you and your baby. </p>
 			<div class="post-link-c"><a href="/expecting/five/" class="post-link">Read more</a></div>
 		</section>
