@@ -207,25 +207,25 @@ main {
 
 h1 {
   color: black;
-  font-family: Helvetica-bold, sans-serif;
+  font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   font-size:31pt;
 }
 
 h2 {
   color: black;
-  font-family: Helvetica-light, sans-serif;
+  font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   font-size:25pt;
 }
 
 h3 {
   color: black;
-  font-family: Helvetica-light, sans-serif;
+  font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   font-size:25pt;
 }
 
 p {  
   color: black;
-  font-family: Helvetica, sans-serif;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size:12pt;}
   .footer {
     position: fixed;

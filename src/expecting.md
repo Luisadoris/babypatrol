@@ -4,6 +4,7 @@ layout: base.njk
 tags: navItem
 ---
 <link rel="stylesheet" href="{{ '/css/content.css' | url }}">
+
 <img width=100%; height=auto; src="/images/head.jpg" class="post-image" alt="post-image">
 <div class="container">
 	<article class="post">
