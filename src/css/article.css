@@ -17,12 +17,30 @@ p {
     line-height: 1;
     text-align: left;
   }
+  h3 {
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: 1;
+    text-align: left;
+  }
+  h4 {
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: 1;
+    text-align: left;
+  }
   h6 {
     margin-right: 5%;
     margin-left: 5%;
     line-height: .25;
     text-align: center;
     
+  }
+  h5 {
+    margin-right: 5%;
+    margin-left: 5%;
+    line-height: 1;
+    text-align: left;
   }
   img {
     margin-right: 5%;

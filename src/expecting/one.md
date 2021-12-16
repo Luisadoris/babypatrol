@@ -1,83 +1,97 @@
 ---
-title: You’re Expecting. Congratulations! Now What?
-layout: base.njk
+title: Pregnancy
+layout: article.njk
 tags: navItem
 ---
-<link rel="stylesheet" href="{{ '/css/article.css' | url }}">
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 # {{title}}
-###### by Pamela Krame
+###### From Wikipedia, the free encyclopedia
 
-<img width=100%; height=auto; src="/images/1.jpeg" class="post-image" alt="post-image">
+<img width=100%; height=auto; src="/images/1.jpg" class="post-image" alt="post-image">
 
-How to get your next 9 months off to the best start possible.
- 
-When Rebecca Brandt’s home pregnancy test came out positive, one of the first things she did was call her ob-gyn to schedule an appointment for the next day. “I couldn’t wait to confirm the results, and I already had a lot of questions about diet, exercise, and whether it would be safe to take over-the-counter medicines,” says the Portland, Oregon, mom, whose daughter was born 15 months ago. But to Brandt’s surprise, her doctor wasn’t in nearly the rush that she was; she was told that he wouldn’t need to see her for another two weeks, when she’d already be two months into the pregnancy. “I asked the nurse if she at least had some guidelines to send me, but she had nothing. So I just stopped taking Advil for my occasional back pain and hoped for the best,” says Brandt.Indeed, many doctors wait to see moms-to-be until 8 or even 12 weeks into a pregnancy. Why not sooner? Home pregnancy tests are extremely reliable; also, before two months there’s no fetal heartbeat and it’s too early to do an accurate pelvic exam. But that doesn’t mean you shouldn’t start taking steps now to make your pregnancy – and the months following it – as healthy and seamless as possible.
- 
-Here’s what you need to know and do as soon as you discover there’s a baby on the way.
+*This article is about pregnancy in humans. For other mammals, see Pregnancy (mammals). For fish, see Pregnancy in fish.*
 
-## Boost Nutrition
-If there was ever a time to eat right, it’s in the first weeks of pregnancy. This is when a baby’s bones, organs, and nervous system begin to form, and a well-balanced diet helps them develop properly, according to Marcos Pupkin, M.D., chairman of the department of obstetrics and gynecology at Mercy Medical Center, in Baltimore. One way you can help yourself to the right mix of nutrients: Take prenatal vitamins. Your doctor can recommend a brand to you over the phone before your exam. If morning sickness is making you feel too queasy to stomach them, try taking them at a different time of day when you’re feeling better.
- 
-But if you haven’t taken any prenatal vitamins or paid attention to your diet until now, don’t panic. “Most babies are born healthy even when Mom hasn’t been sticking to a strict regimen,” says Andrew Rubenstein, M.D., assistant clinical professor of obstetrics, gynecology, and reproductive science at Hackensack University Medical Center, in New Jersey.
- 
-Now and throughout the pregnancy, here’s what to aim for in the foods you eat:
+**Pregnancy**, also known as **gestation**, is the time during which one or more offspring develops inside a woman. A multiple pregnancy involves more than one offspring, such as with twins.Pregnancy usually occurs by sexual intercourse, but can also occur through assisted reproductive technology procedures. A pregnancy may end in a live birth, a spontaneous miscarriage, an induced abortion, or a stillbirth. Childbirth typically occurs around 40 weeks from the start of the last menstrual period (LMP).This is just over nine months (gestational age)—where each month averages 31 days.] When using fertilization age it is about 38 weeks. An embryo is the developing offspring during the first eight weeks following fertilization, (ten weeks' gestational age) after which, the term fetus is used until birth. Signs and symptoms of early pregnancy may include missed periods, tender breasts, morning sickness (nausea and vomiting), hunger, and frequent urination.Pregnancy may be confirmed with a pregnancy test.
 
-**Protein** 60 grams per day. That’s one 4-ounce serving of cooked poultry, meat, or fish (about the size of your palm), two tablespoons of peanut butter, and three 8-ounce servings of milk or yogurt.
+Pregnancy is divided into three trimesters of approximately 3 months each. The first trimester includes conception, which is when the sperm fertilizes the egg. The fertilized egg then travels down the Fallopian tube and attaches to the inside of the uterus, where it begins to form the embryo and placenta. During the first trimester, the possibility of miscarriage (natural death of embryo or fetus) is at its highest. Around the middle of the second trimester, movement of the fetus may be felt. At 28 weeks, more than 90% of babies can survive outside of the uterus if provided with high-quality medical care, though babies born at this time will likely experience serious health complications such as heart and respiratory problems and long-term intellectual and developmental disabilities.
 
-When I was pregnant, I munched on shelled sunflower seeds that I kept at my desk (one-quarter cup has eight grams of protein). Bonus: They settled my stomach.
+Prenatal care improves pregnancy outcomes. Prenatal care may include taking extra folic acid, avoiding drugs, tobacco smoking, and alcohol, taking regular exercise, having blood tests, and regular physical examinations. Complications of pregnancy may include disorders of high blood pressure, gestational diabetes, iron-deficiency anemia, and severe nausea and vomiting. In the ideal childbirth labor begins on its own when a woman is "at term". Babies born before 37 weeks are "preterm" and at higher risk of health problems such as cerebral palsy. Babies born between weeks 37 and 39 are considered "early term" while those born between weeks 39 and 41 are considered "full term". Babies born between weeks 41 and 42 weeks are considered "late term" while after 42 weeks they are considered "post term". Delivery before 39 weeks by labor induction or caesarean section is not recommended unless required for other medical reasons.
 
-**Calcium** At least 1,000 milligrams per day. Three to four servings of dairy products should do it. One serving is eight ounces of milk or yogurt, one ounce of hard cheese (such as cheddar or swiss), or one cup of yogurt.
+About 213 million pregnancies occurred in 2012, of which, 190 million (89%) were in the developing world and 23 million (11%) were in the developed world. The number of pregnancies in women aged between 15 and 44 is 133 per 1,000 women. About 10% to 15% of recognized pregnancies end in miscarriage. In 2016, complications of pregnancy resulted in 230,600 maternal deaths, down from 377,000 deaths in 1990. Common causes include bleeding, infections, hypertensive diseases of pregnancy, obstructed labor, miscarriage, abortion, or ectopic pregnancy. Globally, 44% of pregnancies are unplanned. Over half (56%) of unplanned pregnancies are aborted. Among unintended pregnancies in the United States, 60% of the women used birth control to some extent during the month pregnancy occurred.
 
-**Complex carbohydrates** Six servings of fruits and veggies and at least six servings of breads, cereals, rice, or pasta per day. One serving of produce can be a cup of raw leafy greens, a half cup of cooked fruits or vegetables, one medium-size piece of fruit, or a half cup of juice. A slice of bread, a cup of cereal, or a half cup of cooked rice or pasta counts as one serving of grains.
+## Terminology
+Associated terms for pregnancy are gravid and parous. Gravidus and gravid come from the Latin word meaning "heavy" and a pregnant female is sometimes referred to as a gravida. Gravidity refers to the number of times that a female has been pregnant. Similarly, the term parity is used for the number of times that a female carries a pregnancy to a viable stage. Twins and other multiple births are counted as one pregnancy and birth. A woman who has never been pregnant is referred to as a nulligravida. A woman who is (or has been only) pregnant for the first time is referred to as a primigravida, and a woman in subsequent pregnancies as a multigravida or as multiparous. Therefore, during a second pregnancy a woman would be described as gravida 2, para 1 and upon live delivery as gravida 2, para 2. In-progress pregnancies, abortions, miscarriages and/or stillbirths account for parity values being less than the gravida number. In the case of a multiple birth the gravida number and parity value are increased by one only. Women who have never carried a pregnancy more than 20 weeks are referred to as nulliparous.
 
-**Folate (or folic acid)** At least 400 micrograms per day. One bowl of Cheerios provides 50 percent of what you need. Other good sources of this nutrient are enriched grain products, orange juice, and spinach.
+A pregnancy is considered term at 37 weeks of gestation. It is preterm if less than 37 weeks and postterm at or beyond 42 weeks of gestation. American College of Obstetricians and Gynecologists have recommended further division with early term 37 weeks up to 39 weeks, full term 39 weeks up to 41 weeks, and late term 41 weeks up to 42 weeks. The terms preterm and postterm have largely replaced earlier terms of premature and postmature. Preterm and postterm are defined above, whereas premature and postmature have historical meaning and relate more to the infant's size and state of development rather than to the stage of pregnancy.
 
-## Get Moving
-Fatigue may make you feel like sitting out the next nine months on the couch, but exercise is a great way to energize. It also controls weight gain, keeps abdominal muscles toned (important for preventing backaches as your uterus expands), and helps prevent constipation and premature delivery. You’ll also be thankful for the extra strength and stamina you’ve gained when it’s time to push the baby out.
+## Signs and symptoms
+Main article: [Signs and symptoms of pregnancy](/expecting/two/)
+Further information: [Complications of pregnancy](/expecting/four/)
 
-Stick with activities that are easy on the joints, such as walking, swimming, or cycling, since hormone changes make you more prone to strains and sprains. Thirty minutes of exercise three or four times a week is an ideal amount; though not if it means pushing yourself to the point of exhaustion.
+Melasma: pigment changes to the face due to pregnancy
 
-## Brush Up
-Those same hormones that loosen your joints can do a number on your mouth as well. A mere week or two after sperm meets egg, your gums become more sensitive to plaque. If it’s not removed regularly, you may develop gum disease, which can contribute to premature labor or low birth weight, according to several recent studies.
+In the later part of pregnancy the uterus takes up much of the abdomen
+The usual signs and symptoms of pregnancy do not significantly interfere with activities of daily living or pose a health-threat to the mother or baby. However, pregnancy complications can cause other more severe symptoms, such as those associated with anemia.
 
-If you’re not in the habit already, make sure you brush your teeth at least twice a day and after meals if possible, recommends Cindy Flanagan, a dentist in private practice in Houston. Floss daily as well, and follow that up by rinsing with an alcohol-free antiseptic mouthwash. If your gums start to become inflamed and tender, see your dentist. She may recommend more frequent professional cleaning while you’re expecting.
+Common signs and symptoms of pregnancy include:
 
-## Play It Safe
-You already know to steer clear of alcohol and cigarettes, but you may not be aware of other behavior that might be risky.
+Tiredness
+Morning sickness
+Constipation
+Pelvic girdle pain
+Back pain
+Braxton Hicks contractions. Occasional, irregular, and often painless contractions that occur several times per day.
+Peripheral edema swelling of the lower limbs. Common complaint in advancing pregnancy. Can be caused by inferior vena cava syndrome resulting from compression of the inferior vena cava and pelvic veins by the uterus leading to increased hydrostatic pressure in lower extremities.
+Low blood pressure often caused by compression of both the inferior vena cava and the abdominal aorta (aortocaval compression syndrome).
+Increased urinary frequency. A common complaint, caused by increased intravascular volume, elevated glomerular filtration rate, and compression of the bladder by the expanding uterus.
+Urinary tract infection
+Varicose veins. Common complaint caused by relaxation of the venous smooth muscle and increased intravascular pressure.
+Hemorrhoids (piles). Swollen veins at or inside the anal area. Caused by impaired venous return, straining associated with constipation, or increased intra-abdominal pressure in later pregnancy.
+Regurgitation, heartburn, and nausea.
+Stretch marks
+Breast tenderness is common during the first trimester, and is more common in women who are pregnant at a young age.
+Melasma, also known as the mask of pregnancy, is a discoloration, most often of the face. It usually begins to fade several months after giving birth.
 
-While most ob-gyns say it’s safe to take acetaminophen and many antacids, check with your doctor before using any drug; cough syrups, sleep aids, and other over-the-counter products may contain ingredients that can harm a developing baby. If you’re on a prescription medication, don’t wait until your first prenatal exam to talk to your doctor. He may want you to stay on course, or he may decide to reduce your dosage or switch you to a different medicine altogether.
+## Estimation of due date
+Main article: [Estimated date of delivery](/expecting/three/)
 
-The seemingly harmless task of changing your cat’s litter box is actually potentially hazardous. Cat feces can contain the parasite that causes toxoplasmosis, an infection that creates flulike symptoms in grown-ups but potential hearing, vision, or even brain damage in unborn babies. The risk is highest if a woman gets sick during the first trimester. The parasite can also contaminate raw or underdone meat, so cook meat to at least 160 degrees before eating and always wash hands with soap and water after handling raw meat.
 
-Foods to avoid: unpasteurized milk or juice, soft cheeses (such as brie, feta, and roquefort), and bagged salads. These may contain listeria, a type of bacteria that can cause miscarriage. Deli meats may also carry listeria, so even though they’re cooked, heat to steaming before you eat them.
+Due date estimation basically follows two steps:
 
-Cross raw seafood off your prenatal diet as well; it may contain the parasite that causes hepatitis A.
+Determination of which time point is to be used as origin for gestational age, as described in the section above.
 
-As for those caffeine-containing espressos, cappuccinos, and sodas, moderation is key. While recent studies have found no link between caffeine and birth defects, caffeine does draw fluid and calcium from your body. “It probably won’t harm your baby,” says Oliver Jones, M.D., an ob-gyn in private practice in Denver, “but it can’t hurt to cut it out or limit yourself to one eight-ounce caffeinated drink a day.”
+Adding the estimated gestational age at childbirth to the above time point. Childbirth on average occurs at a gestational age of 280 days (40 weeks), which is therefore often used as a standard estimation for individual pregnancies. However, alternative durations as well as more individualized methods have also been suggested.
 
-## Give Your Doctor a Checkup
-Your ob-gyn may have handled your routine gynecological care for years – and perhaps even helped you through a previous pregnancy – but now’s the time to decide whether she’s the one you want for these nine months. Ask yourself, Are we on similar wavelengths on prenatal testing, episiotomies, and epidurals? Is the office staff friendly and accessible? Does she take the time to give clear, thoughtful responses to my questions?
+Naegele's rule is a standard way of calculating the due date for a pregnancy when assuming a gestational age of 280 days at childbirth. The rule estimates the expected date of delivery (EDD) by adding a year, subtracting three months, and adding seven days to the origin of gestational age. Alternatively there are mobile apps, which essentially always give consistent estimations compared to each other and correct for leap year, while pregnancy wheels made of paper can differ from each other by 7 days and generally do not correct for leap year.
 
-“You should never have to walk out of your doctor’s office with unanswered concerns,” says Dr. Rubenstein. “If you’re not comfortable with your doctor, now’s a good time to switch. Check with friends for a recommendation, or call your local hospital and ask to speak to a nurse in the maternity ward. Labor and delivery nurses work with ob-gyns day in and day out – they know who’s good.”
+Furthermore, actual childbirth has only a certain probability of occurring within the limits of the estimated due date. A study of singleton live births came to the result that childbirth has a standard deviation of 14 days when gestational age is estimated by first trimester ultrasound, and 16 days when estimated directly by last menstrual period.
 
-## Pay Down Debt
-Having a baby costs a bundle. “The less you owe, the better,” says Peter Finch, coauthor of How to Raise Kids Without Going Broke. Eliminate as much debt as possible by chipping away at loans and credit card balances or by transferring all of your balances to one low-interest-rate account, and begin paying it off.
+**Maternal changes**
 
-Aim to bulk up your savings as well. The earlier you start, the more money you’ll have stashed away come delivery day. The easiest, and surest, way to save a lot of money when you’re in a hurry: Have a set dollar amount automatically deducted from each paycheck and deposited directly into your bank account or a mutual fund.
+*Main article:* [Maternal physiological changes in pregnancy](/expecting/five/)
 
-## Look Into Leave
-“Maternity leave may seem like a long way off when you’re only a few weeks pregnant, but it’s not too early to begin thinking about how much time off you’d like and can afford,” says Carol Buckler, coauthor of Everything a Working Mother Needs to Know. “There’s a lot to consider.”
+During pregnancy, a woman undergoes many physiological changes, which are entirely normal, including behavioral, cardiovascular, hematologic, metabolic, renal, and respiratory changes. Increases in blood sugar, breathing, and cardiac output are all required. Levels of progesterone and estrogens rise continually throughout pregnancy, suppressing the hypothalamic axis and therefore also the menstrual cycle. A full-term pregnancy at an early age reduces the risk of breast, ovarian and endometrial cancer and the risk declines further with each additional full-term pregnancy.
 
-While you probably won’t want to tell your supervisor about the pregnancy until you’ve reached the second trimester – when the risk of miscarriage is largely behind you – you can use this time to check out your company’s maternity-leave policy. Read the employee handbook, or discreetly ask colleagues with young kids. “They should be able to explain how the employer managed their leave and give you the inside scoop on things they were able to negotiate, such as making the transition back to work on a part-time basis for a few weeks,” says Ann Douglas, coauthor of The Unofficial Guide to Having a Baby. You may also discover that if you start storing up sick or vacation days now, you can use them for a longer leave later.
+The fetus is genetically different from its mother, and can be viewed as an unusually successful allograft. The main reason for this success is increased immune tolerance during pregnancy. Immune tolerance is the concept that the body is able to not mount an immune system response against certain triggers.
 
-## Make Connections
-It goes without saying that you’ll get plenty of pregnancy advice both from books and from your doctor, but you should also talk to the real pros – the women who’ve been there. Get to know new parents in your neighborhood, hook up with moms in your exercise class, or chat online. Parents will be eager to offer tips on everything from curbing morning sickness to shopping for maternity clothes. And when the baby arrives, you’ll have a built-in playgroup and maybe even a sitter or two.
+During the first trimester, minute ventilation increases by 40%. The womb will grow to the size of a lemon by eight weeks. Many symptoms and discomforts of pregnancy like nausea and tender breasts appear in the first trimester.
 
-*Pamela Kramer, mother of two, lives in Colorado.*
+By the end of the second trimester, the expanding uterus has created a visible "baby bump". Although the breasts have been developing internally since the beginning of the pregnancy, most of the visible changes appear after this point.
+During the second trimester, most women feel more energized, and begin to put on weight as the symptoms of morning sickness subside and eventually fade away. The uterus, the muscular organ that holds the developing fetus, can expand up to 20 times its normal size during pregnancy.
+
+Braxton Hicks contractions are sporadic uterine contractions that may start around six weeks into a pregnancy however, they are usually not felt until the second or third trimester.
+
+Final weight gain takes place during the third trimester, which is the most weight gain throughout the pregnancy. The woman's abdomen will transform in shape as it drops due to the fetus turning in a downward position ready for birth. During the second trimester, the woman's abdomen would have been upright, whereas in the third trimester it will drop down low. The fetus moves regularly, and is felt by the woman. Fetal movement can become strong and be disruptive to the woman. The woman's navel will sometimes become convex, "popping" out, due to the expanding abdomen. l Head engagement, also called "lightening" or "dropping" occurs as the fetal head descends into a cephalic presentation. While it relieves pressure on the upper abdomen and gives a renewed ease in breathing, it also severely reduces bladder capacity resulting in a need to void more frequently, and increases pressure on the pelvic floor and the rectum. It is not possible to predict when lightening occurs. In a first pregnancy it may happen a few weeks before the due date, though it may happen later or even not until labor begins, as is typical with subsequent pregnancies.
+
+It is also during the third trimester that maternal activity and sleep positions may affect fetal development due to restricted blood flow. For instance, the enlarged uterus may impede blood flow by compressing the vena cava when lying flat, which is relieved by lying on the left side.
+
+**Childbirth**
+
+Main article: [Childbirth](/expecting/six/)
+
+Further information: Pain management during childbirth
+
+Childbirth, referred to as labor and delivery in the medical field, is the process whereby an infant is born.
+
+A woman is considered to be in labour when she begins experiencing regular uterine contractions, accompanied by changes of her cervix—primarily effacement and dilation. While childbirth is widely experienced as painful, some women do report painless labours, while others find that concentrating on the birth helps to quicken labour and lessen the sensations. Most births are successful vaginal births, but sometimes complications arise and a woman may undergo a cesarean section.
+
+During the time immediately after birth, both the mother and the baby are hormonally cued to bond, the mother through the release of oxytocin, a hormone also released during breastfeeding. Studies show that skin-to-skin contact between a mother and her newborn immediately after birth is beneficial for both the mother and baby. A review done by the World Health Organization found that skin-to-skin contact between mothers and babies after birth reduces crying, improves mother–infant interaction, and helps mothers to breastfeed successfully. They recommend that neonates be allowed to bond with the mother during their first two hours after birth, the period that they tend to be more alert than in the following hours of early life.

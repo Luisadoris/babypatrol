@@ -9,6 +9,9 @@ siteName: Baby Patrol
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{siteName}} | {{ title }}</title>
   <link rel="stylesheet" href="{{ '/css/style.css' | url }}">
+  {% if pageCSS %}
+    <link rel="stylesheet" href="/css/{{pageCSS}}">
+  {% endif %}
   <header class="site-header">
        <header class="header">
   <a href="" class="logo"> <img src="/images/babypartol.png" alt="logo" style="width:150px;height:auto;"></a>
@@ -23,14 +26,22 @@ siteName: Baby Patrol
 </header>
      
     </header></head>
+<main class="main">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
   {{ content | safe }}
-
+</main>
 
   <div class="footer">
    <footer> <row>
         <p><b>Links</b></br><a href="/resources/">Resources</p></a>
        
+       <p><a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
        </row>
 </div>
     </footer>

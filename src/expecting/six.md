@@ -1,172 +1,84 @@
 ---
-title: A Guide for First-Time Parents
-layout: base.njk
+title: Childbirth
+layout: article.njk
 tags: navItem
 ---
-<link rel="stylesheet" href="{{ '/css/article.css' | url }}">
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 # {{title}}
-###### Reviewed by: Elana Pearl Ben-Joseph, MD
+###### From Wikipedia, the free encyclopedia
+<img width=100%; height=auto; src="/images/6.jpg" class="post-image" alt="post-image">
 
-You've gone through pregnancy, labor, and delivery, and now you're ready to go home and begin life with your baby. Once home, though, you might feel like you have no idea what you're doing!
+**Childbirth**, also known as **labour** or **delivery**, is the ending of pregnancy where one or more babies leaves the uterus by passing through the vagina or by Caesarean section. In 2015, there were about 135 million births globally.About 15 million were born before 37 weeks of gestation, while between 3 and 12% were born after 42 weeks. In the developed world most deliveries occur in hospitals, while in the developing world most births take place at home with the support of a traditional birth attendant.
 
-These tips can help even the most nervous first-time parents feel confident about caring for a newborn in no time.
+The most common way of childbirth is a vaginal delivery. It involves three stages of labour: the shortening and opening of the cervix during the first stage, descent and birth of the baby during the second stage, and the delivery of the placenta during the third stage.
 
-**Getting Help After the Birth**<br>
-Consider getting help during this time, which can be very hectic and overwhelming. While in the hospital, talk to the experts around you. Many hospitals have feeding specialists or lactation consultants who can help you get started nursing or bottle-feeding. Nurses also are a great resource to show you how to hold, burp, change, and care for your baby.
+ The first stage begins with crampy abdominal or back pain that lasts around half a minute and occurs every 10 to 30 minutes.[ The pain becomes stronger and closer together over time. The second stage ends when the infant is fully expelled. In the third stage, the delivery of the placenta, delayed clamping of the umbilical cord is generally recommended. As of 2014, all major health organisations advise that immediately following vaginal birth, or as soon as the mother is alert and responsive after a Caesarean section, that the infant be placed on the mother’s chest, termed skin-to-skin contact, delaying routine procedures for at least one to two hours or until the baby has had its first breastfeeding.
 
-For in-home help, you might want to hire a baby nurse, postpartum doula, or a responsible neighborhood teen to help you for a short time after the birth. Your doctor or the hospital can help you find information about in-home help, and might make a referral to home health agencies.
+Most babies are born head first; however about 4% are born feet or buttocks first, known as breech. Typically the head enters the pelvis facing to one side, and then rotates to face down. During labour, the woman giving birth can generally eat and move around as they like. A number of methods can help with pain, such as relaxation techniques, opioids, and spinal blocks. While making a cut to the opening of the vagina, known as an episiotomy, is common, it is generally not needed. In 2012, about 23 million deliveries occurred by Caesarean section, an operation on the abdomen.
 
-Relatives and friends often want to help too. Even if you disagree on certain things, don't dismiss their experience. But if you don't feel up to having guests or you have other concerns, don't feel guilty about placing restrictions on visitors.
+Each year, complications from pregnancy and childbirth result in about 500,000 birthing deaths, seven million women have serious long-term problems, and 50 million women giving birth have negative health outcomes following delivery. Most of these occur in the developing world. Specific complications include obstructed labour, postpartum bleeding, eclampsia, and postpartum infection.Complications in the baby may include lack of oxygen at birth, birth trauma, prematurity, and infections.
 
-**Handling a Newborn**<br>
-If you haven't spent a lot of time around newborns, their fragility may be intimidating. Here are a few basics to remember:
+### Signs and symptoms
+The most prominent sign of labour is strong repetitive uterine contractions. The distress levels reported by labouring woman vary widely. They appear to be influenced by fear and anxiety levels, experience with prior childbirth, cultural ideas of childbirth pain, mobility during labour, and the support received during labour.
 
-**Wash your hands (or use a hand sanitizer) before handling your baby.** Newborns don't have a strong immune system yet, so they're at risk for infection. Make sure that everyone who handles your baby has clean hands.
+Personal expectations, the amount of support from caregivers, quality of the caregiver-patient relationship, and involvement in decision-making are more important in mother’s overall satisfaction with the experience of childbirth than are other factors such as age, socioeconomic status, ethnicity, preparation, physical environment, pain, immobility, or medical interventions.
 
-**Support your baby's head and neck.** Cradle the head when carrying your baby and support the head when carrying the baby upright or when you lay your baby down.
+**Descriptions**
 
-**Never shake your newborn, whether in play or in frustration.** Shaking can cause bleeding in the brain and even death. If you need to wake your infant, don't do it by shaking — instead, tickle your baby's feet or blow gently on a cheek.
+Pain in contractions has been described as feeling similar to very strong menstrual cramps. Women giving birth are often encouraged to refrain from screaming. However, moaning and grunting may be encouraged to help lessen pain. Crowning may be experienced as an intense stretching and burning. Even those who show little reaction to labour pains, in comparison to others, show a substantially severe reaction to crowning (the appearance of the baby's head).[citation needed]
 
-**Make sure your baby is securely fastened into the carrier, stroller, or car seat.** Limit any activity that could be too rough or bouncy.
+Back labour is a term for specific pain occurring in the lower back, just above the tailbone, during childbirth.
 
-**Remember that your newborn is not ready for rough play,** such as being jiggled on the knee or thrown in the air.
+**Psychological**
 
-## Bonding and Soothing
-Bonding, probably one of the most pleasurable parts of infant care, happens during the sensitive time in the first hours and days after birth when parents make a deep connection with their infant. Physical closeness can promote an emotional connection.
+During the later stages of gestation there is an increase in abundance of oxytocin, a hormone that is known to evoke feelings of contentment, reductions in anxiety, and feelings of calmness and security around the mate. Oxytocin is further released during labour when the fetus stimulates the cervix and vagina, and it is believed that it plays a major role in the bonding of a birther to their infant and in the establishment of "maternal" behaviour. The act of nursing a child also causes a release of oxytocin.
 
-For infants, the attachment contributes to their emotional growth, which also affects their development in other areas, such as physical growth. Another way to think of bonding is "falling in love" with your baby. Children thrive from having a parent or other adult in their life who loves them unconditionally.
+Between 70% and 80% of woman who give birth in the United States report some feelings of sadness or "baby blues" after giving birth.[medical citation needed] The symptoms normally occur for a few minutes up to few hours each day and they should lessen and disappear within two weeks after delivery. Postpartum depression may develop in some women. Preventive group therapy has proven effective as a prophylactic treatment for postpartum depression.
 
-Begin bonding by cradling your baby and gently stroking him or her in different patterns. Both you and your partner can also take the opportunity to be "skin-to-skin," holding your newborn against your own skin while feeding or cradling.
+### Vaginal birth
 
-Babies, especially premature babies and those with medical problems, may respond to **infant massage.** Certain types of massage may enhance bonding and help with infant growth and development. Many books and videos cover infant massage — ask your doctor for recommendations. Be careful, however — babies are not as strong as adults, so massage your baby gently.
+Humans are bipedal with an erect stance. The erect posture causes the weight of the abdominal contents to thrust on the pelvic floor, a complex structure which must not only support this weight but allow, in women, three channels to pass through it: the urethra, the vagina and the rectum. The infant's head and shoulders must go through a specific sequence of manoeuvres in order to pass through the ring of the mother's pelvis.
 
-Babies usually love vocal sounds, such as talking, babbling, singing, and cooing. Your baby will probably also love listening to music. Baby rattles and musical mobiles are other good ways to stimulate your infant's hearing. If your little one is being fussy, try singing, reciting poetry and nursery rhymes, or reading aloud as you sway or rock your baby gently in a chair.
+Six phases of a typical vertex or cephalic (head-first presentation) delivery:
 
-Some babies can be unusually sensitive to touch, light, or sound, and might startle and cry easily, sleep less than expected, or turn their faces away when someone speaks or sings to them. If that's the case with your baby, keep noise and light levels low to moderate.
+**Engagement** of the fetal head in the transverse position. The baby's head is facing across the pelvis at one or other of the mother's hips.
 
-**Swaddling**, which works well for some babies during their first few weeks, is another soothing technique first-time parents should learn. Proper swaddling keeps a baby's arms close to the body while allowing for some movement of the legs. Not only does swaddling keep a baby warm, but it seems to give most newborns a sense of security and comfort. Swaddling also may help limit the startle reflex, which can wake a baby.
+**Descent** and flexion of the fetal head.
 
-Here's how to swaddle a baby:
+**Internal rotation**. The fetal head rotates 90 degrees to the occipito-anterior position so that the baby's face is towards the mother's rectum.
 
-**Spread out the receiving blanket, with one corner folded over slightly.**<br>
+**Delivery by extension.** The fetal head is bowed, chin on chest, so that the back or crown of its head leads the way through the birth canal, until the back of its neck presses against the pubic bone and its chin leaves its chest, extending the neck – as if to look up, and the rest of its head passes out of the birth canal.
 
-**Lay the baby face-up on the blanket with his or her head above the folded corner.**<br>
+**Restitution.** The fetal head turns through 45 degrees to restore its normal relationship with the shoulders, which are still at an angle.
 
-**Wrap the left corner over the body and tuck it beneath the back of the baby, going under the right arm.**<br>
+**External rotation.** The shoulders repeat the corkscrew movements of the head, which can be seen in the final movements of the fetal head.
 
-**Bring the bottom corner up over the baby's feet and pull it toward the head, folding the fabric down if it gets close to the face. Be sure not to wrap too tightly around the hips. Hips and knees should be slightly bent and turned out. Wrapping your baby too tightly may increase the chance of hip dysplasia.**<br>
+The vagina is called a 'birth canal' when the baby enters this passage.
 
-**Wrap the right corner around the baby, and tuck it under the baby's back on the left side, leaving only the neck and head exposed. To make sure your baby is not wrapped too tight, make sure you can slip a hand between the blanket and your baby's chest, which will allow comfortable breathing. Make sure, however, that the blanket is not so loose that it could become undone.**<br>
+**Station** refers to the relationship of the fetal presenting part to the level of the ischial spines. When the presenting part is at the ischial spines the station is 0 (synonymous with engagement). If the presenting fetal part is above the spines, the distance is measured and described as minus stations, which range from −1 to −4 cm. If the presenting part is below the ischial spines, the distance is stated as plus stations ( +1 to +4 cm). At +3 and +4 the presenting part is at the perineum and can be seen.
 
-**Babies should not be swaddled after they're 2 months old. At this age, some babies can roll over while swaddled, which increases their risk of sudden infant death syndrome (SIDS).**<br>
+The fetal head may temporarily change shape substantially (becoming more elongated) as it moves through the birth canal. This change in the shape of the fetal head is called molding and is much more prominent in women having their first vaginal delivery.
 
-**All About Diapering**<br>
-You'll probably decide before you bring your baby home whether you'll use cloth or disposable diapers. Whichever you use, your little one will dirty diapers about 10 times a day, or about 70 times a week.
+**Cervical ripening** is the physical and chemical changes in the cervix to prepare it for the stretching that will take place as the fetus moves out of the uterus and into the birth canal. A scoring system called a Bishop score can be used to judge the degree of cervical ripening in order to predict the timing of labour and delivery of the infant or for women at risk for preterm labour. It is also used to judge when a woman will respond to induction of labour for a postdate pregnancy or other medical reasons. There are several methods of inducing cervical ripening which will allow the uterine contractions to effectively dilate the cervix.
 
-Before diapering your baby, make sure you have all supplies within reach so you won't have to leave your infant unattended on the changing table. You'll need:
+### Labour induction and elective Caesarean section
 
-**a clean diaper**<br>
-**fasteners (if cloth prefold diapers are used)**<br>
-**diaper ointment**<br>
-**diaper wipes (or a container of warm water and a clean washcloth or cotton balls)**<br>
+In many cases and with increasing frequency, childbirth is achieved through labour induction or caesarean section. Labour induction is the process or treatment that stimulates childbirth and delivery. Inducing labour can be accomplished with pharmaceutical or non-pharmaceutical methods. Inductions are most often performed either with prostaglandin drug treatment alone, or with a combination of prostaglandin and intravenous oxytocin treatment. Caesarean section is the removal of the neonate through a surgical incision in the abdomen, rather than through vaginal birth. Childbirth by C-Sections increased 50% in the US from 1996 to 2006. In 2011, 32.8 per cent of births in the US were delivered by cesarean section. Induced births and elective cesarean before 39 weeks can be harmful to the neonate as well as harmful or without benefit to the mother. Therefore, many guidelines recommend against non-medically required induced births and elective cesarean before 39 weeks. The 2012 rate of labour induction in the United States was 23.3 per cent, and has more than doubled from 1990 to 2010. The American Congress of Obstetricians and Gynecologists (ACOG) guidelines recommend a full evaluation of the maternal-fetal status, the status of the cervix, and at least a 39 completed weeks (full term) of gestation for optimal health of the newborn when considering elective induction of labour. Per these guidelines, indications for induction may include:
 
-After each bowel movement or if the diaper is wet, lay your baby on his or her back and remove the dirty diaper. Use the water, cotton balls, and washcloth or the wipes to gently wipe your baby's genital area clean. When removing a boy's diaper, do so carefully because exposure to the air may make him urinate. When wiping a girl, wipe her bottom from front to back to avoid a urinary tract infection (UTI). To prevent or heal a rash, apply ointment. Always remember to wash your hands thoroughly after changing a diaper.
+**Abruptio placentae**
 
-Diaper rash is a common concern. Typically the rash is red and bumpy and will go away in a few days with warm baths, some diaper cream, and a little time out of the diaper. Most rashes happen because the baby's skin is sensitive and becomes irritated by the wet or poopy diaper.
+**Chorioamnionitis**
 
-To prevent or heal diaper rash, try these tips:
+Fetal compromise such as isoimmunisation leading to haemolytic disease of the newborn or oligohydramnios
+Fetal demise
 
-**Change your baby's diaper often, and as soon as possible after bowel movements.**<br>
-**Gently clean the area with mild soap and water (wipes sometimes can be irritating), then apply a very thick layer of diaper rash or "barrier" cream. Creams with zinc oxide are preferred because they form a barrier against moisture.**<br>
-**If you use cloth diapers, wash them in dye- and fragrance-free detergents.**<br>
-**Let the baby go undiapered for part of the day. This gives the skin a chance to air out.**<br>
-**If the diaper rash continues for more than 3 days or seems to be getting worse, call your doctor — it may be caused by a fungal infection that requires a prescription.**<br>
+Gestational hypertension
 
-## Bathing Basics
-You should give your baby a sponge bath until:
+Maternal conditions such as gestational diabetes or chronic kidney disease
 
-**the umbilical cord falls off and the navel heals completely (1–4 weeks)**<br>
-**the circumcision heals (1–2 weeks)**<br>
+Preeclampsia or eclampsia
 
-A bath two or three times a week in the first year is fine. More frequent bathing may be drying to the skin.
+Premature rupture of membranes
 
-Have these items ready before bathing your baby:
+Postterm pregnancy
 
-**a soft, clean washcloth**<br>
-**mild, unscented baby soap and shampoo**<br>
-**a soft brush to stimulate the baby's scalp**<br>
-**towels or blankets**<br>
-**a clean diaper**<br>
-**clean clothes**<br>
-
-**Sponge baths.** For a sponge bath, select a safe, flat surface (such as a changing table, floor, or counter) in a warm room. Fill a sink, if nearby, or bowl with warm (not hot!) water. Undress your baby and wrap him or her in a towel. Wipe your infant's eyes with a washcloth (or a clean cotton ball) dampened with water only, starting with one eye and wiping from the inner corner to the outer corner. Use a clean corner of the washcloth or another cotton ball to wash the other eye. Clean your baby's nose and ears with the damp washcloth. Then wet the cloth again and, using a little soap, wash his or her face gently and pat it dry.
-
-Next, using baby shampoo, create a lather and gently wash your baby's head and rinse. Using a wet cloth and soap, gently wash the rest of the baby, paying special attention to creases under the arms, behind the ears, around the neck, and in the genital area. Once you have washed those areas, make sure they are dry and then diaper and dress your baby.
-
-**Tub baths.** When your baby is ready for tub baths, the first baths should be gentle and brief. If he or she becomes upset, go back to sponge baths for a week or two, then try the bath again.
-
-In addition to the supplies listed above, add:
-
-**an infant tub with 2 to 3 inches of warm — not hot! — water (to test the water temperature, feel the water with the inside of your elbow or wrist). An infant tub is a plastic tub that can fit in the bathtub; it's a better size for babies and makes bathing easier to manage.**<br>
-
-Undress your baby and then place him or her in the water immediately, in a warm room, to prevent chills. Make sure the water in the tub is no more than 2 to 3 inches deep, and that the water is no longer running in the tub. Use one of your hands to support the head and the other hand to guide the baby in feet-first. Speaking gently, slowly lower your baby up to the chest into the tub.
-
-Use a washcloth to wash his or her face and hair. Gently massage your baby's scalp with the pads of your fingers or a soft baby hairbrush, including the area over the fontanelles (soft spots) on the top of the head. When you rinse the soap or shampoo from your baby's head, cup your hand across the forehead so the suds run toward the sides and soap doesn't get into the eyes. Gently wash the rest of your baby's body with water and a small amount of soap.
-
-Throughout the bath, regularly pour water gently over your baby's body so he or she doesn't get cold. After the bath, wrap your baby in a towel immediately, making sure to cover his or her head. Baby towels with hoods are great for keeping a freshly washed baby warm.
-
-While bathing your infant, **never** leave the baby alone. If you need to leave the bathroom, wrap the baby in a towel and take him or her with you.
-
-## Circumcision and Umbilical Cord Care
-Immediately after circumcision, the tip of the penis is usually covered with gauze coated with petroleum jelly to keep the wound from sticking to the diaper. Gently wipe the tip clean with warm water after a diaper change, then apply petroleum jelly to the tip so it doesn't stick to the diaper. Redness or irritation of the penis should heal within a few days, but if the redness or swelling increases or if pus-filled blisters form, infection may be present and you should call your baby's doctor immediately.
-
-Umbilical cord care in newborns is also important. Some doctors suggest swabbing the area with rubbing alcohol until the cord stump dries up and falls off, usually in 10 days to 3 weeks, but others recommend leaving the area alone. Talk to your child's doctor to see what he or she prefers.
-
-An infant's navel area shouldn't be submerged in water until the cord stump falls off and the area is healed. Until it falls off, the cord stump will change color from yellow to brown or black — this is normal. Call your doctor if the navel area looks red or if a foul odor or discharge develops.
-
-## Feeding and Burping Your Baby
-Whether feeding your newborn by breast or a bottle, you may be stumped as to how often to do so. Generally, it's recommended that babies be fed **on demand** — whenever they seem hungry. Your baby may cue you by crying, putting fingers in his or her mouth, or making sucking noises.
-
-A newborn baby needs to be fed every 2 to 3 hours. If you're breastfeeding, give your baby the chance to nurse about 10–15 minutes at each breast. If you're formula-feeding, your baby will most likely take about 2–3 ounces (60–90 milliliters) at each feeding.
-
-Some newborns may need to be awakened every few hours to make sure they get enough to eat. Call your baby's doctor if you need to wake your newborn often or if your baby doesn't seem interested in eating or sucking.
-
-If you're formula-feeding, you can easily monitor if your baby is getting enough to eat, but if you're breastfeeding, it can be a little trickier. If your baby seems satisfied, produces about six wet diapers and several stools a day, sleeps well, and is gaining weight regularly, then he or she is probably eating enough.
-
-Another good way to tell if your baby is getting milk is to notice if your breasts feel full before feeding your baby and less full after feeding. Talk to your doctor if you have concerns about your child's growth or feeding schedule.
-
-Babies often swallow air during feedings, which can make them fussy. To help prevent this, burp your baby often. Try burping your baby every 2–3 ounces (60–90 milliliters) if you bottle-feed, and each time you switch breasts if you breastfeed.
-
-If your baby tends to be gassy, has gastroesophageal reflux, or seems fussy during feeding, try burping your little one after every ounce during bottle-feeding or every 5 minutes during breastfeeding.
-
-Try these burping tips:
-
-**Hold your baby upright with his or her head on your shoulder. Support your baby's head and back while gently patting the back with your other hand.**<br>
-**Sit your baby on your lap. Support your baby's chest and head with one hand by cradling your baby's chin in the palm of your hand and resting the heel of your hand on your baby's chest (be careful to grip your baby's chin — not throat). Use the other hand to gently pat your baby's back.**<br>
-**Lay your baby face-down on your lap. Support your baby's head, making sure it's higher than his or her chest, and gently pat or rub his or her back.**<br>
-
-If your baby doesn't burp after a few minutes, change the baby's position and try burping for another few minutes before feeding again. Always burp your baby when feeding time is over, then keep him or her in an upright position for at least 10–15 minutes to avoid spitting up.
-
-## Sleeping Basics
-As a new parent, you may be surprised to learn that your newborn, who seems to need you every minute of the day, actually sleeps about 16 hours or more!
-
-Newborns typically sleep for periods of 2–4 hours. Don't expect yours to sleep through the night — the digestive system of babies is so small that they need nourishment every few hours and should be awakened if they haven't been fed for 4 hours (or more often if your doctor is concerned about weight gain).
-
-When can you expect your baby to sleep through the night? Many babies sleep through the night (between 6–8 hours) at 3 months of age, but if yours doesn't, it's not a cause for concern. Like adults, babies must develop their own sleep patterns and cycles, so if your newborn is gaining weight and appears healthy, don't despair if he or she hasn't slept through the night at 3 months.
-
-It's important to **always** place babies on their backs to sleep to reduce the risk of SIDS (sudden infant death syndrome). Other safe sleeping practices include: not using blankets, quilts, sheepskins, stuffed animals, and pillows in the crib or bassinet (these can suffocate a baby); and sharing a bedroom (but not a bed) with the parents for the first 6 months to 1 year. Also be sure to alternate the position of your baby's head from night to night (first right, then left, and so on) to prevent the development of a flat spot on one side of the head.
-
-Many newborns have their days and nights "mixed up." They tend to be more awake and alert at night, and more sleepy during the day. One way to help them is to keep stimulation at night to a minimum. Keep the lights low, such as by using a nightlight. Reserve talking and playing with your baby for the daytime. When your baby wakes up during the day, try to keep him or her awake a little longer by talking and playing.
-
-Even though you may feel anxious about handling a newborn, in a few short weeks you'll develop a routine and be parenting like a pro! If you have questions or concerns, ask your doctor to recommend resources that can help you and your baby grow together.
-
-**Reviewed by**: Elana Pearl Ben-Joseph, MD
-<br><br><br>
+Induction is also considered for logistical reasons, such as the distance from hospital or psychosocial conditions, but in these instances gestational age confirmation must be done, and the maturity of the fetal lung must be confirmed by testing. The ACOG also note that contraindications for induced labour are the same as for spontaneous vaginal delivery, including vasa previa, complete placenta praevia, umbilical cord prolapse or active genital herpes simplex infection.

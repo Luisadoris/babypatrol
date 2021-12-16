@@ -8,7 +8,10 @@
    =======================================================  */
 
 /* ========== Use Border Box model ============ */
-html {
+main {
+  margin-bottom: 10%;
+}
+  html {
     box-sizing: border-box;
   }
   *, *:before, *:after {
@@ -58,6 +61,7 @@ html {
     margin: 0;
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     background-color: #F8F0EA;
+    margin-bottom: 10%;
   }
   
   a {
@@ -72,6 +76,7 @@ html {
     position: fixed;
     width: 100%;
     z-index: 3;
+
   }
   
   .header ul {
