@@ -1,59 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:400,300,100,700,500);
+@import url(https://fonts.googleapis.com/css?family=Alegreya:400,400italic);
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
 p {
-    margin-right: 5%;
-    margin-left: 5%;
+  margin-left: -2.6rem;
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 2;
     text-align: left;
   }
   h1 {
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-left: -2.6rem;
     line-height: 1.5;
     text-align: center;
+    font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
-  h2 {
-    margin-right: 5%;
-    margin-left: 5%;
-    line-height: 1;
-    text-align: left;
-  }
+
+ 
   h3 {
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-left: -2.6rem;
     line-height: 1;
     text-align: left;
+    font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
   h4 {
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-right: 10%;
+    margin-left: 10%;
     line-height: 1;
     text-align: left;
+    font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
   h6 {
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-left: -2.6rem;
     line-height: .25;
     text-align: center;
+    font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
     
   }
   h5 {
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-left: -2.6rem;
     line-height: 1;
     text-align: left;
+    font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
   img {
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-left: -2.6rem;
     text-align: center;
   }
 
-  body {
-  background-color: whitesmoke;
-  }
 
-  iframe { 
-    margin-left: 5%;   
-    margin-right: 5%; 
-    text-align: center;
-   }
+   body {
+    font-size: calc(100% + .25vw);
+    line-height: 1.4em;
+    background-color: whitesmoke;
+  }
+  
+  main {
+    max-width: 100%;
+    margin: 0 auto;
+  }
+  
+  article {
+    max-width: 90%;
+    padding: 0 .5rem 0 15%;
+  }
+  
+  h2 {
+    font-size: 1.6em;
+    line-height: 1;
+    writing-mode: vertical-rl;
+    float: left;
+    margin: 0 0 0 -5%;
+    padding: .1em .5em .5em .1em;
+    max-height: 500px;
+    font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
+  }
+  
+  @media all and (min-width: 40rem) {
+    main {
+      max-width: 40rem;
+      margin: 0 auto;
+    }
+    article {
+      max-width: 35rem;
+      padding-left: 5rem;
+    }
+    h2 {
+      font-size: 2.6em;
+      margin-left: -2.6rem;
+    }
+  }
