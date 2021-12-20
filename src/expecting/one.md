@@ -4,7 +4,7 @@ layout: article.njk
 tags: navItem
 ---
 # {{title}}
-###### From Wikipedia, the free encyclopedia
+###### From [Wikipedia](https://en.wikipedia.org/wiki/Pregnancy), the free encyclopedia
 
 <img width=100%; height=auto; src="/images/1.jpg" class="post-image" alt="post-image">
 

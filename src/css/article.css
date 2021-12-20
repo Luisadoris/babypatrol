@@ -6,13 +6,13 @@ p {
   margin-left: -2.6rem;
     font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
     line-height: 2;
-    text-align: left;
   }
   h1 {
     margin-left: -2.6rem;
     line-height: 1.5;
     text-align: center;
     font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
+    
   }
 
  
@@ -42,14 +42,10 @@ p {
     text-align: left;
     font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
-  img {
-    margin-left: -2.6rem;
-    text-align: center;
-  }
+
 
 
    body {
-    font-size: calc(100% + .25vw);
     line-height: 1.4em;
     background-color: whitesmoke;
   }
@@ -67,10 +63,6 @@ p {
   h2 {
     font-size: 1.6em;
     line-height: 1;
-    writing-mode: vertical-rl;
-    float: left;
-    margin: 0 0 0 -5%;
-    padding: .1em .5em .5em .1em;
     max-height: 500px;
     font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
@@ -89,3 +81,4 @@ p {
       margin-left: -2.6rem;
     }
   }
+
