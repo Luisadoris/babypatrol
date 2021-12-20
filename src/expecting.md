@@ -11,7 +11,7 @@ tags: navItem
 		<img width="660" height="478" src="/images/1.jpg" class="post-image" alt="post-image">
 		<section class="post-content">
 			<h1 class="post-title">Pregnancy</h1>
-			<time class="post-author">From Wikipedia, the free encyclopedia</time>
+			<time class="post-author">From <a href="https://en.wikipedia.org/wiki/Pregnancy">Wikipedia</a>, the free encyclopedia</time>
             <p class="post-abstract">Pregnancy, also known as gestation, is the time during which one or more offspring develops inside a woman. A multiple pregnancy involves more than one offspring, such as with twins.</p>
 			<div class="post-link-c">
 				<a href="/expecting/one/" class="post-link">Read more</a>
