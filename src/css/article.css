@@ -67,18 +67,45 @@ p {
     font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
   
-  @media all and (min-width: 40rem) {
+  @media all and (min-width: 545px) {
     main {
-      max-width: 40rem;
+      max-width: 100%;
       margin: 0 auto;
     }
     article {
-      max-width: 35rem;
+      max-width: 90%;
       padding-left: 5rem;
     }
     h2 {
       font-size: 2.6em;
       margin-left: -2.6rem;
     }
+    p {
+      margin-right: 10%;
+    margin-left: 10%;
+    }
+    h1 {
+      margin-right: 10%;
+    margin-left: 10%;
+    }
+    h2 {
+      margin-right: 10%;
+    margin-left: 10%;
+    }
+    h3 {
+      margin-right: 10%;
+    margin-left: 10%;
+    }
+    h4 {
+      margin-right: 10%;
+    margin-left: 10%;
+    }
+    h5 {
+      margin-right: 10%;
+    margin-left: 10%;
+    }
+    h6 {
+      margin-right: 10%;
+    margin-left: 10%;
+    }
   }
-
