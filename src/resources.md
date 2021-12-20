@@ -16,7 +16,11 @@ tags: navItem
 
 **[Childbirth](/expecting/six/)** : From  *[Wikipedia](https://en.wikipedia.org/wiki/Childbirth)*, the free encyclopedia
 
-**[Parents](/Parenthood/Parentone)**: from *[Realsimple]
+**[Parents](/Parenthood/Parentone)** : from  *[Realsimple]
 (https://www.realsimple.com/work-life/family/kids-parenting/only-parenting-advice-you-really-need)*, Experts agree
 
 All Images are from [Unsplash](https://unsplash.com)
+
+
+**[Teenagers](/parenthood/parenttwo)** : from [kidshealth]
+(https://kidshealth.org/en/parents/adolescence.html)* Neumers children health
