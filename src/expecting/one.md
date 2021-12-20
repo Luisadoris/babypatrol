@@ -4,7 +4,11 @@ layout: article.njk
 tags: navItem
 ---
 # {{title}}
+<<<<<<< HEAD
 ###### From [Wikipedia](https://en.wikipedia.org/wiki/Pregnancy), the free encyclopedia
+=======
+###### From <a href="https://en.wikipedia.org/wiki/Pregnancy">Wikipedia</a>,the free encyclopedia
+>>>>>>> c123b8da1e097460df92878757d8e2d792f90dbb
 
 <img width=100%; height=auto; src="/images/1.jpg" class="post-image" alt="post-image">
 
