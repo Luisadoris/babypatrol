@@ -94,3 +94,8 @@ Childbirth, referred to as labor and delivery in the medical field, is the proce
 A woman is considered to be in labour when she begins experiencing regular uterine contractions, accompanied by changes of her cervix—primarily effacement and dilation. While childbirth is widely experienced as painful, some women do report painless labours, while others find that concentrating on the birth helps to quicken labour and lessen the sensations. Most births are successful vaginal births, but sometimes complications arise and a woman may undergo a cesarean section.
 
 During the time immediately after birth, both the mother and the baby are hormonally cued to bond, the mother through the release of oxytocin, a hormone also released during breastfeeding. Studies show that skin-to-skin contact between a mother and her newborn immediately after birth is beneficial for both the mother and baby. A review done by the World Health Organization found that skin-to-skin contact between mothers and babies after birth reduces crying, improves mother–infant interaction, and helps mothers to breastfeed successfully. They recommend that neonates be allowed to bond with the mother during their first two hours after birth, the period that they tend to be more alert than in the following hours of early life.
+
+<div class="prev-next">
+<p><a href="/expecting/six/">Previous Article</a></p>
+<p><a href="/expecting/two/">Next Article</a></p>
+</div>

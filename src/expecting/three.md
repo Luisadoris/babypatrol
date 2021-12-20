@@ -78,3 +78,8 @@ A median of **288 days** (274 days from the date of ovulation) for first-time mo
 **Individualized**
 
 Multiple linear regression models have also been developed that account for maternal parity, age, and race, all which have been found to be important variables determining the length of human gestation. Multiparous women, women aged less than 19 or more than 34 years, and black women have been found to have shorter gestations than primiparous women, women aged 19 to 34 years, or white women.
+
+<div class="prev-next">
+<p><a href="/expecting/two/">Previous Article</a></p>
+<p><a href="/expecting/four/">Next Article</a></p>
+</div>

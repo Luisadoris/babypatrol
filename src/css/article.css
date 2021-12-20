@@ -66,6 +66,11 @@ p {
     max-height: 500px;
     font-family: "Alegreya Sans SC", Helvetica, Arial, sans-serif;
   }
+
+  .prev-next{
+    display:flex;
+    justify-content: space-between;
+  }
   
   @media all and (min-width: 400px) {
     main {
@@ -109,3 +114,4 @@ p {
     margin-left: 10%;
     }
   }
+  

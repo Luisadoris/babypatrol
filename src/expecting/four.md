@@ -191,3 +191,8 @@ Anti-depressants, for example, may increase risks of such outcomes as preterm de
 Some disorders and conditions can mean that pregnancy is considered high-risk (about 6-8% of pregnancies in the USA) and in extreme cases may be contraindicated. High-risk pregnancies are the main focus of doctors specialising in maternal-fetal medicine.
 
 Serious pre-existing disorders which can reduce a woman's physical ability to survive pregnancy include a range of congenital defects (that is, conditions with which the woman herself was born, for example, those of the heart or reproductive organs, some of which are listed above) and diseases acquired at any time during the woman's life.
+
+<div class="prev-next">
+<p><a href="/expecting/three/">Previous Article</a></p>
+<p><a href="/expecting/five/">Next Article</a></p>
+</div>

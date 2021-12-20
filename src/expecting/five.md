@@ -40,3 +40,7 @@ The adrenal gland also produces more androgens, such as testosterone, but this i
 **Thyroid**
 The thyroid enlarges and may be more easily felt during the first trimester. The increase in kidney clearance during pregnancy causes more iodide to be excreted and causes relative iodine deficiency and as a result an increase in thyroid size. Estrogen-stimulated increase in thyroid-binding globulin (TBG) leads to an increase in total thyroxine (T4), but free thyroxine (T4) and triiodothyronine (T3) remain normal.
 
+<div class="prev-next">
+<p><a href="/expecting/four/">Previous Article</a></p>
+<p><a href="/expecting/six/">Next Article</a></p>
+</div>

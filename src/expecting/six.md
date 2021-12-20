@@ -82,3 +82,8 @@ Premature rupture of membranes
 Postterm pregnancy
 
 Induction is also considered for logistical reasons, such as the distance from hospital or psychosocial conditions, but in these instances gestational age confirmation must be done, and the maturity of the fetal lung must be confirmed by testing. The ACOG also note that contraindications for induced labour are the same as for spontaneous vaginal delivery, including vasa previa, complete placenta praevia, umbilical cord prolapse or active genital herpes simplex infection.
+
+<div class="prev-next">
+<p><a href="/expecting/five/">Previous Article</a></p>
+<p><a href="/expecting/one/">Next Article</a></p>
+</div>
