@@ -15,3 +15,7 @@ tags: navItem
  **[Maternal Changes](/expecting/five/)**: From  *[Wikipedia](https://en.wikipedia.org/wiki/Maternal_physiological_changes_in_pregnancy)*, the free encyclopedia
 
 **[Childbirth](/expecting/six/)** : From  *[Wikipedia](https://en.wikipedia.org/wiki/Childbirth)*, the free encyclopedia
+
+**[Parents](/Parenthood/Parentone)**: from *[Realsimple]
+(https://www.realsimple.com/work-life/family/kids-parenting/only-parenting-advice-you-really-need)*, Experts agree
+

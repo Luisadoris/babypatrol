@@ -8,7 +8,7 @@ tags: navItem
 
 ###### From Real simple, Experts agree
 
-<img width=100%; height=auto; src="/images/1.jpg" class="post-image" alt="post-image">
+<img width=100%; height=auto; src="/images/parent-one-pic.jpg" class="post-image" alt="post-image">
 
 
 <h3> Let your kids fail</h3>
