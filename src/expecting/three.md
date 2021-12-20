@@ -4,7 +4,7 @@ layout: article.njk
 tags: navItem
 ---
 # {{title}}
-###### From Wikipedia, the free encyclopedia
+###### From [Wikipedia](https://en.wikipedia.org/wiki/Estimated_date_of_delivery), the free encyclopedia
 <img width=100%; height=auto; src="/images/3.jpg" class="post-image" alt="post-image">
 
 The estimated date of delivery (EDD), also known as expected date of confinement, and estimated due date or simply due date, is a term describing the estimated delivery date for a pregnant woman. Normal pregnancies last between 37 and 42 weeks.Children are delivered on their expected due date about 4% of the time.

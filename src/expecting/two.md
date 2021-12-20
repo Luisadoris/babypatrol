@@ -4,7 +4,7 @@ layout: article.njk
 tags: navItem
 ---
 # {{title}}
-###### From Wikipedia, the free encyclopedia
+###### From [Wikipedia](https://en.wikipedia.org/wiki/Signs_and_symptoms_of_pregnancy), the free encyclopedia
 <img width=100%; height=auto; src="/images/2.jpg" class="post-image" alt="post-image">
 
 Signs and symptoms of pregnancy are common, benign conditions that result from the changes to the body that occur during pregnancy. Signs and symptoms of pregnancy typically change as pregnancy progresses, although several symptoms may be present throughout. Depending on severity, common symptoms in pregnancy can develop into complications). Pregnancy symptoms may be categorized based on trimester as well as region of the body affected.

@@ -4,7 +4,7 @@ layout: article.njk
 tags: navItem
 ---
 # {{title}}
-###### From Wikipedia, the free encyclopedia
+###### From [Wikipedia](https://en.wikipedia.org/wiki/Childbirth), the free encyclopedia
 <img width=100%; height=auto; src="/images/6.jpg" class="post-image" alt="post-image">
 
 **Childbirth**, also known as **labour** or **delivery**, is the ending of pregnancy where one or more babies leaves the uterus by passing through the vagina or by Caesarean section. In 2015, there were about 135 million births globally.About 15 million were born before 37 weeks of gestation, while between 3 and 12% were born after 42 weeks. In the developed world most deliveries occur in hospitals, while in the developing world most births take place at home with the support of a traditional birth attendant.
